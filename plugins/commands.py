@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @seenmachan
 
 
 from pyrogram import Client, filters
@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/Mo_Tech_YT")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/seenmachan")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+                            "⭕️ SUPPORT ⭕️", url="https://t.me/seenmachan")
                     ]
                 ]
             ),
