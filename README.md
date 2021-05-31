@@ -61,4 +61,4 @@ Use This Link     :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 
 
 [Click here to see tutorial video](https://youtu.be/d_oX4b7ucWM)
 
-Thanks to [MoTectYT](https://telegram.dog/MO_TECH_YT) and [MRK YT](https://telegram.dog/MRK_YT) for the video
+Thanks to [Seen Machan](https://t.me/seenmachan) and [Seen Man](https://t.me/seenmachan) for the video
