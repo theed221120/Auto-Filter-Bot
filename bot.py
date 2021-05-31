@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @seenmachan
 
 
 from pyrogram import (
@@ -48,7 +48,7 @@ class Bot(Client):
         self.USER, self.USER_ID = await User().start()
         await self.USER.send_message(
             chat_id=usr_bot_me.username,
-            text="😬🤒🤒"
+            text="എന്താടാ ഷോ ആണോ 😂"
         )
 
     async def stop(self, *args):
